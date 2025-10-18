@@ -19,6 +19,9 @@
 
 ### 🤝 Connect with Me
 <p align="left">
+  <a href="https://www.linkedin.com/in/aishwaryaramanand/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryaramanand" height="30" width="40" />
+  </a>
   <a href="https://www.hackerrank.com/aishu_ramanand" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aishu_ramanand" height="30" width="40" />
   </a>
