@@ -1,16 +1,16 @@
 <!-- 🌟 PROFILE HEADER -->
 <p align="center">
   <a href="https://github.com/aishwarya-ramanand">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Aishwarya+R;🎯+Aspiring+Data+Scientist+|+Data+Analyst;💻+Turning+Raw+Data+into+Meaningful+Insights;✨+Learning,+Growing,+and+Building+with+Data!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Aishwarya+R;🎯+Aspiring+Data+Scientist+|+Data+Analyst;💻+Turning+Raw+Data+into+Meaningful+Insights;✨+Learning,+Growing,+and+Building+with+Data!" alt="Typing Animation" />
   </a>
 </p>
 
-<h3 align="center">📊 Data Science | SQL | Python | Excel | Analytics</h3>
+<h3 align="center" style="color:#1E90FF;">📊 Data Science | SQL | Python | Excel | Analytics</h3>
 
 ---
 
 <p align="center">
-📚 Currently pursuing a **Data Science Internship** and building expertise in **Python, SQL, and Machine Learning**.<br>
+📚 Currently pursuing a <b style="color:#1E90FF;">Data Science Internship</b> and building expertise in <b style="color:#1E90FF;">Python, SQL, and Machine Learning</b>.<br>
 💡 Passionate about exploring data, uncovering insights, and telling stories through visualization.<br>
 🧩 Believes in learning by doing — one dataset at a time.
 </p>
@@ -19,23 +19,23 @@
 
 <!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishwarya-ramanand&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aishwarya-ramanand&label=Profile%20Views&color=1E90FF&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/aishwarya-ramanand?label=Followers&style=social"/>
   <img src="https://img.shields.io/github/stars/aishwarya-ramanand?label=Stars&style=social"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aishwarya-ramanand&theme=tokyonight&margin-w=8&margin-h=8&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aishwarya-ramanand&theme=algolia&margin-w=8&margin-h=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 **Aspiring Data Scientist** with a foundation in *Python, SQL, and Excel*  
-- 🧠 Currently exploring **Machine Learning, Pandas, and Data Visualization**  
+- 🎓 <span style="color:#1E90FF;">Aspiring Data Scientist</span> with a foundation in <b>Python, SQL, and Excel</b>  
+- 🧠 Currently exploring <b style="color:#1E90FF;">Machine Learning, Pandas, and Data Visualization</b>  
 - ✍️ Writing blogs on **[Medium](https://medium.com/@aishu.ramanand/sql-a-simple-language-for-compound-tasks-4e1e4fc5bdf8)**  
-- 🔍 Interested in projects related to **EDA, predictive modeling, and data storytelling**  
+- 🔍 Interested in projects related to <b>EDA, predictive modeling, and data storytelling</b>  
 - 📬 Reach me at: **aishu.ramanand@gmail.com**
 
 ---
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aishwaryaramanand/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aishwarya%20Ramanand-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aishwarya%20Ramanand-1E90FF?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:aishu.ramanand@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
@@ -102,7 +102,7 @@
 ### ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwarya-ramanand&theme=react-dark&bg_color=1a1b27&color=ff69b4&line=38bdae&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwarya-ramanand&theme=react-dark&bg_color=1a1b27&color=1E90FF&line=38bdae&point=ffffff&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@
 
 ---
 
-<h3 align="center">💫 “Exploring data, finding patterns, and turning insights into impact — one project at a time.” 💫</h3>
+<h3 align="center" style="color:#1E90FF;">💫 “Exploring data, finding patterns, and turning insights into impact — one project at a time.” 💫</h3>
 
 <p align="center">
   <em>Thanks for stopping by! Let’s connect and create something insightful together.</em>
