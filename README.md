@@ -17,17 +17,46 @@
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
+<h2 align="center">🤝 Connect with Me</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/aishwaryaramanand/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryaramanand" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryaramanand" height="40" width="50" />
   </a>
   <a href="https://www.hackerrank.com/aishu_ramanand" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aishu_ramanand" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aishu_ramanand" height="40" width="50" />
   </a>
   <a href="https://medium.com/@aishu.ramanand" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="medium" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="medium" height="40" width="50" />
   </a>
+</p>
+
+---
+
+<h2 align="center">🧰 Languages and Tools</h2>
+<p align="center"> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="excel" width="45" height="45"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya-ramanand&show_icons=true&locale=en&layout=compact" alt="aishwarya-ramanand" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishwarya-ramanand&show_icons=true&locale=en" alt="aishwarya-ramanand" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-ramanand&" alt="aishwarya-ramanand" />
 </p>
 
 ---
