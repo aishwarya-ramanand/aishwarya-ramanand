@@ -49,9 +49,6 @@
   <a href="mailto:aishu.ramanand@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.hackerrank.com/@aishu_ramanand" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
-  </a>
   <a href="https://medium.com/@aishu.ramanand/sql-a-simple-language-for-compound-tasks-4e1e4fc5bdf8" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium"/>
   </a>
@@ -76,10 +73,6 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aishwarya-ramanand&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-ramanand&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-ramanand&theme=tokyonight&hide_border=true"/>
